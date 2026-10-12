@@ -19,6 +19,8 @@ much faster** multi-threading makes the job.
 
 
 **Submitted to:** Dr. Balasubramani M sir
+
+
 **Full report:** [docs/SPECTRA_Project_Report.pdf](docs/SPECTRA_Project_Report.pdf)
 
 ---
