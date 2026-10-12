@@ -13,8 +13,7 @@ SPECTRA is a Windows desktop application that scans a video **frame by frame, in
 where something happens (motion, high activity, scene change, sudden flash), and then **measures honestly how
 much faster** multi-threading makes the job.
 
-> **Not an AI project.** It uses only classic image processing: grayscale, Gaussian blur, frame differencing,
-> thresholding, contours and brightness histograms. Every result can be explained in a few words.
+
 
 **Team:** Anwita Padhi (24BYB0193) · Yashes Kartik (24BYB0071) · Siddh Jain (24BYB0065)
 **Submitted to:** Dr. Balasubramani M sir
