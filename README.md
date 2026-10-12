@@ -16,6 +16,8 @@ much faster** multi-threading makes the job.
 
 
 **Team:** Anwita Padhi (24BYB0193) · Yashes Kartik (24BYB0071) · Siddh Jain (24BYB0065)
+
+
 **Submitted to:** Dr. Balasubramani M sir
 **Full report:** [docs/SPECTRA_Project_Report.pdf](docs/SPECTRA_Project_Report.pdf)
 
